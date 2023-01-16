@@ -1,0 +1,21 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "Memahami struktur alur program dengan algoritma dan pseudocode\r Dapat membuat algoritma dan pseudocode dari sebuah permasalahan kecil",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "hacktiv8-reporter": "^1.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "hacktiv8-reporter"
+    ]
+  },
+  "author": "",
+  "license": "ISC"
+}
